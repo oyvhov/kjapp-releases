@@ -6,7 +6,7 @@ Kjapp hjelper trenarar med å planleggje og gjennomføre treningsøkter for barn
 
 Last ned APK-fila på telefonen og opne henne for å installere. Installer nye utgåver oppå den eksisterande Kjapp-appen; då blir lokale økter, utstyr og innstillingar bevarte. Ikkje avinstaller først.
 
-Frå versjon 22 kan Kjapp hente oppdateringar her direkte frå **Innst. → Oppdateringar**. Har du versjon 21 eller eldre, installer den nye APK-fila manuelt éin gong for å byte oppdateringskanal. Ingen GitHub-konto er nødvendig.
+Frå versjon 23 kan Kjapp hente oppdateringar her direkte frå **Innst. → Oppdateringar**. Har du versjon 22 eller eldre, installer den nye APK-fila manuelt éin gong for å byte oppdateringskanal. Ingen GitHub-konto er nødvendig.
 
 Dette repoet inneheld berre ferdige Android-utgåver og offentleg bygginformasjon. Kjeldekoden er privat. Utvikling, bygging og signering skjer lokalt. Appen lagrar treningsdata på eininga; ingen treningsdata blir publiserte her.
 
